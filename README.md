@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rLannes, PhD in Evolution, Research Fellow working on Multiple Myeloma and single cell data integration.
+- 👋 Hi, I’m @rLannes, PhD in Evolution, bioinfornatician scientist and former Research Fellow working on Multiple Myeloma and single cell data integration.
 - 👀 I’m interested in Python, Rust, Data Science, computational biology, single-cell anlyses, data structure and data visualition
 - 🌱 I’m currently learning some deep learning for microscope image processing.
 - 💞️ I’m looking to collaborate on ...
